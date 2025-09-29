@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+h3{
+  color: beige;
+  background-color: black;
+  font-size: 1.25em;
+}
